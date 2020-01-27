@@ -1,1 +1,2 @@
 Mortuza learn git and github
+hi.txt are practice edited
